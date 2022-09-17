@@ -1,0 +1,14 @@
+#painting {
+  border-color: black;
+  background-color: white;
+  margin-top: 10px;
+}
+
+#clear-canvas {
+  margin-top: 10px;
+}
+
+body {
+  background-color: lime;
+  text-align: center;
+}
